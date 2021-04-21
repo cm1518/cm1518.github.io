@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christian Matthes"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Christian Matthes"
 description              : &description "Professor of Economics, IU Bloomington"
