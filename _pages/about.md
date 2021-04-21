@@ -10,7 +10,7 @@ redirect_from:
 
 Ph.D. in Economics @ NYU (2010)
 
-Research interest: Macroeconomics, (Bayesian) Econometrics, Time Series Econometrics, Imperfect Information
+Research interest: Macroeconomics, Bayesian Econometrics, Time Series Econometrics, Imperfect Information
 
 
 [CV in PDF format](https://cm1518.github.io/files/cv.pdf)
