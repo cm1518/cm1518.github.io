@@ -6,7 +6,8 @@ title: "About me"
    - /about/
    - /about.html
 
-Ph.D. in Economsics @ NYU (2010)
+Ph.D. in Economics @ NYU (2010)
+
 Research interest: Macroeconomics, (Bayesian) Econometrics, Time Series Econometrics, Imperfect Information
 
 
