@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- https://cm1518.github.io/files/cv.pdf
+[CV in PDF format](https://cm1518.github.io/files/cv.pdf)
