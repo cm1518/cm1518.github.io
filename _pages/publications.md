@@ -14,8 +14,8 @@ author_profile: true
 *   ["Understanding the Size of the Government Spending Multiplier: It's All in the Sign"]( https://cm1518.github.io/files/FP.pdf)" with Regis Barnichon and Davide Debortoli, **Review of Economic Studies,** forthcoming  ([Online Appendix]( https://cm1518.github.io/files/OnlineAppFP.pdf)) 
 *   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics,** forthcoming 
 *   ["Forecasting the COVID-19 epidemic: the case of New Zealand"](https://cm1518.github.io/files/NZ.pdf) with Paul Ho and Thomas Lubik, **New Zealand Economic Papers,** forthcoming 
-*   ["A composite likelihood approach for dynamic structural models"](https://cm1518.github.io/files/files/CM2.pdf) with Fabio Canova, **Economic Journal**, forthcoming
-*   ["Dealing With Misspecification in Structural Macroeconometric Models"](hhttps://cm1518.github.io/files/CM.pdf) with Fabio Canova, **Quantitative Economics,** forthcoming
+*   ["A composite likelihood approach for dynamic structural models"](https://cm1518.github.io/files/CM2.pdf) with Fabio Canova, **Economic Journal**, forthcoming
+*   ["Dealing With Misspecification in Structural Macroeconometric Models"](https://cm1518.github.io/files/CM.pdf) with Fabio Canova, **Quantitative Economics,** forthcoming
 *    ["Are the Effects of Financial Market Disruptions Big or Small?"](https://cm1518.github.io/files/CS.pdf) with Regis Barnichon and Alexander Ziegenbein, **Review of Economics & Statistics**, forthcoming 
 *    [Detecting and Analyzing the Effects of Time-Varying Parameters in DSGE Models](https://cm1518.github.io/files/cfm2.pdf)" with Fabio Canova and Filippo Ferroni, **International Economic Review**, February 2020, vol. 61, No. 1 ([Online Appendix](https://cm1518.github.io/files/OnlineAppcfm2.pdf))  
 *   ["Choosing Prior Hyperparameters"](https://cm1518.github.io/files/HP.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang,  **Journal of Business & Economic Statistics**, 2020, 38:1, 124-136 ([Online Appendix](https://cm1518.github.io/files/OnlineAppHP.pdf) )  
