@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+*    ["Economic Theories and Macroeconomic Reality"](https://cm1518.github.io/files/Mixture_Prior_submission.pdf) with Francesca Loria and Mu-Chun Wang, **Journal of Monetary Economics**, forthcoming
 *   ["Understanding the Size of the Government Spending Multiplier: It's All in the Sign"]( https://cm1518.github.io/files/FP.pdf) with Regis Barnichon and Davide Debortoli, **Review of Economic Studies,** forthcoming  ([Online Appendix]( https://cm1518.github.io/files/OnlineAppFP.pdf)) 
 *   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics,** forthcoming 
 *   ["Forecasting the COVID-19 epidemic: the case of New Zealand"](https://cm1518.github.io/files/NZ.pdf) with Paul Ho and Thomas Lubik, **New Zealand Economic Papers,** forthcoming 
@@ -19,7 +19,6 @@ author_profile: true
 *    ["Are the Effects of Financial Market Disruptions Big or Small?"](https://cm1518.github.io/files/CS.pdf) with Regis Barnichon and Alexander Ziegenbein, **Review of Economics & Statistics**, forthcoming 
 *    ["Detecting and Analyzing the Effects of Time-Varying Parameters in DSGE Models"](https://cm1518.github.io/files/cfm2.pdf) with Fabio Canova and Filippo Ferroni, **International Economic Review**, February 2020, vol. 61, No. 1 ([Online Appendix](https://cm1518.github.io/files/OnlineAppcfm2.pdf))  
 *   ["Choosing Prior Hyperparameters"](https://cm1518.github.io/files/HP.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang,  **Journal of Business & Economic Statistics**, 2020, 38:1, 124-136 ([Online Appendix](https://cm1518.github.io/files/OnlineAppHP.pdf) )  
-
 *   ["Functional Approximation of Impulse Responses"](https://cm1518.github.io/files/asymMP.pdf) with Regis Barnichon, **Journal of Monetary Economics**, November 2018, vol. 99, Pages 41-55 ([Online Appendix](https://cm1518.github.io/files/FAIR_OnlineAppendix.pdf), [Code for FAIR models](https://github.com/cm1518/FAIR))  
 *    ["Two-sided Learning and Short-Run Dynamics in a New Keynesian Model of the Economy"](https://cm1518.github.io/files/1705e.pdf) with Francesca Rondina, **Economics Letters**, Volume 159, October 2017, Pages 53-56 ([Appendix](https://cm1518.github.io/files/AppendixTSL.pdf)) 
 *   ["Measurement Errors and Monetary Policy: Then and Now"](https://cm1518.github.io/files/meas_error.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang, **Journal of Economic Dynamics and Control**, Volume 79, June 2017, Pages 66-78 ([Appendix](https://cm1518.github.io/files/meas_error_appendix.pdf)) 
