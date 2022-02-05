@@ -4,7 +4,7 @@ title: "Working Papers"
 permalink: /workingpapers/
 author_profile: true
 ---
-*    ["Extreme Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan
+*    ["Extreme Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan (R & R, Journal of Econometrics)
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *   ["Learning about Regime Change"](https://cm1518.github.io/files/FM.pdf) with Andrew Foerster (R & R, IER)
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman (R & R, AEJ:Macro)
