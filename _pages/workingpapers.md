@@ -4,6 +4,7 @@ title: "Working Papers"
 permalink: /workingpapers/
 author_profile: true
 ---
+*    [" What Information Do Proxy-VARs Use? A Study of High Frequency Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["Extreme Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan (R & R, Journal of Econometrics)
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman (R & R, AEJ:Macro)
