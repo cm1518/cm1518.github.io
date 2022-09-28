@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+*   ["Indeterminacy and Imperfect Information"](https://cm1518.github.io/files/LMM.pdf) with Thomas Lubik and Elmar Mertens, **Review of Economic Dynamics**, forthcoming
 *   ["Learning about Regime Change"](https://cm1518.github.io/files/FM.pdf) with Andrew Foerster, **International Economic Review**, forthcoming
 *    ["Economic Theories and Macroeconomic Reality"](https://cm1518.github.io/files/Mixture_Prior_submission.pdf) with Francesca Loria and Mu-Chun Wang, **Journal of Monetary Economics**, forthcoming
 *   ["Understanding the Size of the Government Spending Multiplier: It's All in the Sign"]( https://cm1518.github.io/files/FP.pdf) with Regis Barnichon and Davide Debortoli, **Review of Economic Studies,** forthcoming  ([Online Appendix]( https://cm1518.github.io/files/OnlineAppFP.pdf)) 
