@@ -12,10 +12,11 @@ author_profile: true
 {% include base_path %}
 *   ["Indeterminacy and Imperfect Information"](https://cm1518.github.io/files/LMM.pdf) with Thomas Lubik and Elmar Mertens, **Review of Economic Dynamics**, forthcoming
 *   ["Learning about Regime Change"](https://cm1518.github.io/files/FM.pdf) with Andrew Foerster, **International Economic Review**, forthcoming
-*    ["Economic Theories and Macroeconomic Reality"](https://cm1518.github.io/files/Mixture_Prior_submission.pdf) with Francesca Loria and Mu-Chun Wang, **Journal of Monetary Economics**, forthcoming
-*   ["Understanding the Size of the Government Spending Multiplier: It's All in the Sign"]( https://cm1518.github.io/files/FP.pdf) with Regis Barnichon and Davide Debortoli, **Review of Economic Studies,** forthcoming  ([Online Appendix]( https://cm1518.github.io/files/OnlineAppFP.pdf)) 
-*   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics,** forthcoming 
-*   ["Forecasting the COVID-19 epidemic: the case of New Zealand"](https://cm1518.github.io/files/NZ.pdf) with Paul Ho and Thomas Lubik, **New Zealand Economic Papers,** forthcoming 
+*    ["Economic Theories and Macroeconomic Reality"](https://cm1518.github.io/files/Mixture_Prior_submission.pdf) with Francesca Loria and Mu-Chun Wang, **Journal of Monetary Economics**, Volume 126, March 2022, Pages 105-117
+*   ["Understanding the Size of the Government Spending Multiplier: It's All in the Sign"]( https://cm1518.github.io/files/FP.pdf) with Regis Barnichon and Davide Debortoli, **Review of Economic Studies**, Volume 89, Issue 1, January 2022, Pages 87–117  ([Online Appendix]( https://cm1518.github.io/files/OnlineAppFP.pdf)) 
+*    [Monetary Policy across Space and Time](https://cm1518.github.io/files/LMP.pdf)" with Laura Liu and Katerina Petrova, **Essays in Honor of Fabio Canova (Advances in Econometrics)**, forthcoming  ([Online Appendix](https://cm1518.github.io/files/OnlineAppLMP.pdf)) 
+*   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics,**, forthcoming 
+*   ["Forecasting the COVID-19 epidemic: the case of New Zealand"](https://cm1518.github.io/files/NZ.pdf) with Paul Ho and Thomas Lubik, **New Zealand Economic Papers,** 2022, Volume. 56, No. 1, 9–16
 *   ["A composite likelihood approach for dynamic structural models"](https://cm1518.github.io/files/CM2.pdf) with Fabio Canova, **Economic Journal**, Volume 131, Issue 638, August 2021, Pages 2447–2477
 *   ["Dealing With Misspecification in Structural Macroeconometric Models"](https://cm1518.github.io/files/CM.pdf) with Fabio Canova, **Quantitative Economics,** Volume 12, Issue 2, Pages 313-350 (lead article)
 *    ["Are the Effects of Financial Market Disruptions Big or Small?"](https://cm1518.github.io/files/CS.pdf) with Regis Barnichon and Alexander Ziegenbein, **Review of Economics & Statistics**, forthcoming 
