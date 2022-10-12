@@ -8,7 +8,7 @@ author_profile: true
 *    ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik
 *    ["Inflation Measured Every Day Keeps Adverse Responses Away: Temporal Aggregation and Monetary Policy Transmission"](https://cm1518.github.io/files/Jacobson-Matthes-Walker-2022.pdf) with Margaret Jacobson and Todd Walker
 *    ["Understanding Instruments in Macroeconomics - A Study of High-Frequency Identification"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
-*    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan (R & R, Journal of Econometrics)
+*    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan 
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman (R & R, AEJ:Macro)
 *   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang
