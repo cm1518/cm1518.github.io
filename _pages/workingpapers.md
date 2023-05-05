@@ -5,7 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-*    ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik
+*    ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik (R & R, JME)
 *    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/Jacobson-Matthes-Walker-2022.pdf) with Margaret Jacobson and Todd Walker
 *    ["Understanding Instruments in Macroeconomics - A Study of High-Frequency Identification"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan (R & R, AEJ:Macro)
