@@ -10,7 +10,7 @@ author_profile: true
 *    ["Understanding Instruments in Macroeconomics - A Study of High-Frequency Identification"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan (R & R, AEJ:Macro)
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
-*    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman (R & R, AEJ:Macro)
+*    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman (conditionally accepted, AEJ:Macro)
 *   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang
 *    ["Assessing U.S. Aggregate Fluctuations Across Time and Frequencies"](https://cm1518.github.io/files/LubikMatthesVerona_Revision.pdf) with Thomas Lubik and Fabio Verona ([Online Appendix](https://cm1518.github.io/files/LubikMatthesVerona_Revision_Appendix.pdf), [Older version with different empirical specification](https://cm1518.github.io/files/LMV.pdf), [Online Appendix for older version](https://cm1518.github.io/files/OnlineAppLMV.pdf)) 
 
