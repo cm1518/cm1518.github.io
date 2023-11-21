@@ -5,6 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+*    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu 
 *    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/yield_curve_website.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez 
 *    ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik 
 *    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/Jacobson-Matthes-Walker-2022.pdf) with Margaret Jacobson and Todd Walker
