@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+*   ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik, **Journal of Monetary Economics**, forthcoming 
 *   ["Indeterminacy and Imperfect Information"](https://cm1518.github.io/files/LMM.pdf) with Thomas Lubik and Elmar Mertens, **Review of Economic Dynamics**, Volume 49, July 2023, Pages 37-57
 *   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics**, Volume 232, Issue 1, January 2023, Pages 70-86 
 *   ["Learning about Regime Change"](https://cm1518.github.io/files/FM.pdf) with Andrew Foerster, **International Economic Review**, Volume 63, Issue 4, November 2022, Pages 1829-1859
