@@ -9,7 +9,7 @@ author_profile: true
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova
 *    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu 
 *    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/yield_curve_website.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez 
-*    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/Jacobson-Matthes-Walker-2022.pdf) with Margaret Jacobson and Todd Walker
+*    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/JMW.pdf) with Margaret Jacobson and Todd Walker
 *    ["Understanding Instruments in Macroeconomics - A Study of High-Frequency Identification"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
 *    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan 
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang
