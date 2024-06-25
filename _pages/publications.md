@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+*   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang, **Economic Journal**, forthcoming 
 *   ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik, **Journal of Monetary Economics**, forthcoming 
 *   ["Indeterminacy and Imperfect Information"](https://cm1518.github.io/files/LMM.pdf) with Thomas Lubik and Elmar Mertens, **Review of Economic Dynamics**, Volume 49, July 2023, Pages 37-57
 *   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics**, Volume 232, Issue 1, January 2023, Pages 70-86 
