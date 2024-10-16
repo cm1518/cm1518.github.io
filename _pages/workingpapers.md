@@ -5,6 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+*    ["Estimating The Missing Intercept"](https://cm1518.github.io/files/MNS.pdf) with Naoya Nagasaka and Felipe Schwartzman
 *    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova, **r&r, EER**
 *    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu, **r&r, QE**
