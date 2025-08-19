@@ -5,7 +5,8 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-*    ["A Non-Gaussian GDP Anatomy"](https://cm1518.github.io/files/Non_Gaussian_Business_Cycle_Anatomy.pdf) with Andrzej Kociecki and Michele Piffer
+*    ["A Unified Approach to Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer (some of the results in this paper were
+previously circulated in a paper titled “A Non-Gaussian GDP Anatomy”)
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
 *    ["Estimating The Missing Intercept"](https://cm1518.github.io/files/MNS.pdf) with Naoya Nagasaka and Felipe Schwartzman
 *    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, [data available here](https://doi.org/10.7910/DVN/MQMJHT)
