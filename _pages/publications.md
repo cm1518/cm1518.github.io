@@ -10,10 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, forthcoming 
+*    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **he B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
+*    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, Volume 178, September 2025 
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman, **AEJ: Macro**, forthcoming 
-*    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan, **AEJ: Macro**, forthcoming  
-*   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang, **Economic Journal**, forthcoming 
+*    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan, **AEJ: Macro**, Volume 17, No. 2, April 2025, Pages 315–41 
+*   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang, **Economic Journal**, Volume 135, Issue 665, January 2025, Pages 264–284 
 *   ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik, **Journal of Monetary Economics**, Volume 146, September 2024
 *   ["Indeterminacy and Imperfect Information"](https://cm1518.github.io/files/LMM.pdf) with Thomas Lubik and Elmar Mertens, **Review of Economic Dynamics**, Volume 49, July 2023, Pages 37-57
 *   ["How to Go Viral:A COVID-19 Model with Endogenously Time-Varying Parameters"](https://cm1518.github.io/files/Coronavirus_Empirics.pdf) with Paul Ho and Thomas Lubik, **Journal of Econometrics**, Volume 232, Issue 1, January 2023, Pages 70-86 
