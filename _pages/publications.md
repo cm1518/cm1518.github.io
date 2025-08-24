@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **he B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
+*    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, Volume 178, September 2025 
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman, **AEJ: Macro**, forthcoming 
 *    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan, **AEJ: Macro**, Volume 17, No. 2, April 2025, Pages 315–41 
