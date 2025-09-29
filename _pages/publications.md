@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 *    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, Volume 178, September 2025 
-*    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman, **AEJ: Macro**, forthcoming 
+*    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman, **AEJ: Macro**, Volume 17, No. 4, October 2025,
+Pages 82–123
 *    ["Severe Weather and the Macroeconomy"](https://cm1518.github.io/files/weather_web.pdf) with Hee Soo Kim and Toan Phan, **AEJ: Macro**, Volume 17, No. 2, April 2025, Pages 315–41 
 *   ["Assessing Macroeconomic Tail Risk"](https://cm1518.github.io/files/MacroRisk.pdf) with Francesca Loria and Donghai Zhang, **Economic Journal**, Volume 135, Issue 665, January 2025, Pages 264–284 
 *   ["Averaging Impulse Responses Using Prediction Pools"](https://cm1518.github.io/files/Averaging_Impulse_Responses_web.pdf) with Paul Ho and Thomas Lubik, **Journal of Monetary Economics**, Volume 146, September 2024
