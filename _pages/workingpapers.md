@@ -5,6 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+*    ["Some Pitfalls of Instrument-Based Inference in Structural VARs"](https://cm1518.github.io/files/identification.pdf) with Vladimir Menshikov and Todd Walker
 *    ["A Unified Approach to Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer (some of the results in this paper were
 previously circulated in a paper titled “A Non-Gaussian GDP Anatomy”)
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
