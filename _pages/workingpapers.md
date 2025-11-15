@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 *    ["Some Pitfalls of Instrument-Based Inference in Structural VARs"](https://cm1518.github.io/files/identification.pdf) with Vladimir Menshikov and Todd Walker
-*    ["A Unified Approach to Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer (some of the results in this paper were
-previously circulated in a paper titled “A Non-Gaussian GDP Anatomy”)
+*    ["A Scalable Framework for Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
 *    ["Estimating The Missing Intercept"](https://cm1518.github.io/files/MNS.pdf) with Naoya Nagasaka and Felipe Schwartzman
 *    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu
