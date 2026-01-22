@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+*    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu, **Quantitative Economics**, forthcoming
 *    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/CGRM.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez, **Journal of Economic Dynamics and Control**, forthcoming.
 *    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, Volume 178, September 2025 
