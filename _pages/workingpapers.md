@@ -11,7 +11,6 @@ author_profile: true
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
 *    ["Estimating The Missing Intercept"](https://cm1518.github.io/files/MNS.pdf) with Naoya Nagasaka and Felipe Schwartzman
 *    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu
-*    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/CGRM.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez 
 *    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/JMW.pdf) with Margaret Jacobson and Todd Walker
 *    ["High-Frequency Instruments with Time-Varying Reliability: Understanding Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang     
 ## Permanent Working Papers
