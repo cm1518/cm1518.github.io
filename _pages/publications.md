@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*    ["High-Frequency Instruments with Time-Varying Reliability: Understanding Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang, **Journal of Applied Econometrics**, forthcoming     
+*    ["High-Frequency Instruments with Time-Varying Reliability: Understanding Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang, **Journal of Applied Econometrics**, forthcoming
+*    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/JMW.pdf) with Margaret Jacobson and Todd Walker, **JPE: Macro**, forthcoming
 *    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu, **Quantitative Economics**, forthcoming
 *    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/CGRM.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez, **Journal of Economic Dynamics and Control**, forthcoming.
 *    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
