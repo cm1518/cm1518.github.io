@@ -10,7 +10,7 @@ author_profile: true
 *    ["A Scalable Framework for Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
 *    ["Estimating The Missing Intercept"](https://cm1518.github.io/files/MNS.pdf) with Naoya Nagasaka and Felipe Schwartzman
-*    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/JMW.pdf) with Margaret Jacobson and Todd Walker
+
 
 ## Permanent Working Papers
 *    ["What Does Monetary Policy Do To Different People?"](https://cm1518.github.io/files/inequality_monetary_policy_web.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang  
