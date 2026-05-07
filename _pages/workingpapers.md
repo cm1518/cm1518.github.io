@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 *    ["How Ricardian Are We?"](https://jonathanjadams.com/files/How%20Ricardian%20Are%20We/Estimating_Ricardian_Equivalence.pdf) with Jonathan Adams
+*  ["Measuring Sentiment Shocks in Professional Survey Data and Their Role in Aggregate Fluctuations"](https://cm1518.github.io/files/Forecast_Factors.pdf) with Rupal Kamdar and Anthony Vecchia
 *    ["Some Pitfalls of Instrument-Based Inference in Structural VARs"](https://cm1518.github.io/files/identification.pdf) with Vladimir Menshikov and Todd Walker
 *    ["A Scalable Framework for Statistical Identification in Structural VARs"](https://cm1518.github.io/files/non_gaussian_draft_all.pdf) with Andrzej Kociecki and Michele Piffer
 *    ["General Seemingly Unrelated Local Projections"](https://arxiv.org/pdf/2410.17105) with Florian Huber and Michael Pfarrhofer
