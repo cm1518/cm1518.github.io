@@ -5,6 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+*    ["Beyond Aggregate VARs: A Bayesian Benchmark for HANK Models"](https://arxiv.org/abs/2609.06827) with Florian Huber and Gary Koop
 *    ["How Ricardian Are We?"](https://jonathanjadams.com/files/How%20Ricardian%20Are%20We/Estimating_Ricardian_Equivalence.pdf) with Jonathan Adams
 *  ["Measuring Sentiment Shocks in Professional Survey Data and Their Role in Aggregate Fluctuations"](https://cm1518.github.io/files/Forecast_Factors.pdf) with Rupal Kamdar and Anthony Vecchia
 *    ["Some Pitfalls of Instrument-Based Inference in Structural VARs"](https://cm1518.github.io/files/identification.pdf) with Vladimir Menshikov and Todd Walker
