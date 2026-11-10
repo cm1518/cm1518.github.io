@@ -5,6 +5,7 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
+*    ["Non-Gaussian Structural Dynamic Factor Models: Identification and Estimation"](https://cm1518.github.io/files/PaperAppendix_v1.10_CM_clean.pdf) with Andrzej Kocięcki and Michele Piffer ([Online Appendix](https://cm1518.github.io/files/OnlineAppendix_v1.10_CM_clean.pdf))
 *    ["Local Projections with Imperfect Instruments and Controls"](https://cm1518.github.io/files/lpiv_cautionary_tales_macro.pdf)
 *    ["Beyond Aggregate VARs: A Bayesian Benchmark for HANK Models"](https://arxiv.org/abs/2609.06827) with Florian Huber and Gary Koop
 *    ["How Ricardian Are We?"](https://jonathanjadams.com/files/How%20Ricardian%20Are%20We/Estimating_Ricardian_Equivalence.pdf) with Jonathan Adams ([Slides](https://cm1518.github.io/files/slides_CEPR_2026.pdf))
