@@ -10,11 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*    ["High-Frequency Instruments with Time-Varying Reliability: Understanding Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang, **Journal of Applied Econometrics**, forthcoming
+*    ["High-Frequency Instruments with Time-Varying Reliability: Understanding Identification in Macroeconomics"](https://cm1518.github.io/files/Proxy_VAR_.pdf) with Pooyan Amir-Ahmadi and Mu-Chun Wang, **Journal of Applied Econometrics**, 41(5), 539–548 (2026). [Publisher version](https://doi.org/10.1002/jae.70054)
 *    ["Temporal Aggregation Bias and Monetary Policy Transmission"](https://cm1518.github.io/files/JMW.pdf) with Margaret Jacobson and Todd Walker, **JPE: Macro**, forthcoming
-*    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu, **Quantitative Economics**, forthcoming
-*    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/CGRM.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez, **Journal of Economic Dynamics and Control**, forthcoming.
-*    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, forthcoming. [data available here](https://doi.org/10.7910/DVN/MQMJHT)
+*    ["Large Structural VARs with Multiple Sign and Ranking Restrictions"](https://cm1518.github.io/files/SVAR-sign.pdf) with Joshua Chan and Xuewen Yu, **Quantitative Economics**, 17(3), 709–740 (2026). [Publisher version](https://doi.org/10.3982/QE2529)
+*    ["The Influence of Fiscal and Monetary Policies on the Shape of the Yield Curve"](https://cm1518.github.io/files/CGRM.pdf) with Yoosoon Chang and Fabio Gomez-Rodriguez, **Journal of Economic Dynamics and Control**, 184, 105276 (2026). [Publisher version](https://doi.org/10.1016/j.jedc.2026.105276)
+*    ["Monetary Policy Shocks: Data or Methods?"](https://cm1518.github.io/files/BMW.pdf) with Connor Brennan, Margaret Jacobson and Todd Walker, **The B.E. Journal of Macroeconomics**, 25(2), 595–659 (2025). [Publisher version](https://doi.org/10.1515/bejm-2024-0175) · [data available here](https://doi.org/10.7910/DVN/MQMJHT)
 *    ["Monetary Policy across Inflation Regimes"](https://cm1518.github.io/files/Monetary_Policy_across_Inflation_Regimes.pdf) with Valeria Gargiulo and Katerina Petrova,  **European Economic Review**, Volume 178, September 2025 
 *    ["The Consumption Origins of Business Cycles: Lessons from Sectoral Dynamics"](https://cm1518.github.io/files/MS.pdf) with Felipe Schwartzman, **AEJ: Macro**, Volume 17, No. 4, October 2025,
 Pages 82–123
